@@ -1,3 +1,6 @@
+# Para no subir el pdf de instrucciones
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
