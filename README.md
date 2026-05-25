@@ -1,2 +1,2 @@
-# lab8-teoriaprobabilidades
-Repositorio con el código para el laboratorio #8 de Teoría de Probabilidades
+# Laboratorio #8 Teoría de Probabilidades
+Este repo contiene todos los procedimientos realizados en pareja el octavo loratorio de la clase de Teoría de Probabilidades. Los procedimientos fueron realizados por mi persona (Santiago Cordero, carnet 24472) y Luis Pedro Hernández (Carnet 24337), y los incisos están titulados en el mismo notebook, y las capturas se generan automáticamente con matplot al correr el código. El notebook está en el archivo `lab8.ipynb`, el cual se puede ejcutar localmente con una extensión de Jupyter o bien desde la página de Jupyter oficial.
